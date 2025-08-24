@@ -34,8 +34,4 @@
   <a href="https://www.linkedin.com/in/lucas-curtolo-belem-109350294/">
     <img alt="logo-linkedin" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:lucasc.belem@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=pink">
-  </a>
 </div>
